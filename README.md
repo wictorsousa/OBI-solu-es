@@ -16,7 +16,6 @@ Para enviar a sua solução, siga o fluxo padrão do GitHub:
 
 Para masnter a organização, tente seguir esta estrutura de pastas:
 
-```text
 /
 ├── 2025/
 │   ├── Fase_1/
