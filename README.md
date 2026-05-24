@@ -16,6 +16,7 @@ Para enviar a sua solução, siga o fluxo padrão do GitHub:
 
 Para masnter a organização, tente seguir esta estrutura de pastas:
 
+```text
 /
 ├── 2025/
 │   ├── Fase_1/
@@ -25,6 +26,7 @@ Para masnter a organização, tente seguir esta estrutura de pastas:
 │   │   └── Modalidade_Universitaria/
 │   └── Fase_2/
 └── 2026/
+```
 
 ## Regras de Convivência
   * Respeite o código do colega. Comentários construtios são sempre bem-vindos!
