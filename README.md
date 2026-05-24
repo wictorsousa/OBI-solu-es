@@ -8,13 +8,23 @@ Para enviar a sua solução, siga o fluxo padrão do GitHub:
 # Opção A: Utilizando o Git Bash / Terminal
 
 1. Faça um **Fork** deste repositório.
+   
    <img width="1366" height="768" alt="fork copia" src="https://github.com/user-attachments/assets/b046d6cb-51f7-48de-b327-b14bd71a64ca" />
 
-3. Clone o seu fork localmente: `git clone https://github.com/SEU-USUARIO/nome-do-repositorio.git`
-4. Crie uma branch para a sua questão: `git checkout -b solucao-nome-da-questao`
-5. Adicione o seu código na pasta correspondente (ex: `Nivel_Senior/Fase_1/NomeDaQuestao.c`).
-6. Faça o commit e o push: `git push origin solucao-nome-da-questao`
-7. Abra um **Pull Request** para o repositório principal.
+   <img width="1366" height="768" alt="fork copia 2" src="https://github.com/user-attachments/assets/604779ff-22de-4b19-8ad4-52178caf672b" />
+
+2. Navegue até o diretirio onde estão seus repositorios (ex: `C:\Users\Seu-Usuario\Documents\GitHub`). Clone o seu fork localmente: `git clone https://github.com/SEU-USUARIO/nome-do-repositorio.git`
+3. Acesse a pasta criada e crie uma branch para a sua questão: `git checkout -b solucao-nome-da-questao`
+6. Adicione o seu código na pasta correspondente (ex: `Nivel_Universitario/Fase_1/Nome_da_Questao/solucao_seu_nome.c`).
+7. Faça o commit e o push:
+   `git add .`
+   `git commit -m "Solução: Nome da Questão (Ano - Fase)"`
+   `git push origin solucao-nome-da-questao`
+9. Abra um **Pull Request** para o repositório principal.
+
+   <img width="1366" height="768" alt="pull request 1" src="https://github.com/user-attachments/assets/d8bab572-cc93-4c40-b528-cd2d28951d5c" />
+
+   <img width="1366" height="768" alt="pull request 2" src="https://github.com/user-attachments/assets/e9a77755-90a6-47b9-b64b-cf87088d0920" />
 
 ## Estrutura do Repositório
 
