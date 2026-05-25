@@ -77,7 +77,7 @@ switch( variavel ){
       instruções;
       break;  
   ...
-defaut:
+  defaut:
       intruções;
 }
 ```
