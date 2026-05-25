@@ -67,6 +67,20 @@ Para situações onde você precisa de um `if/else` muito simples apenas atribui
 ## Estrutura `switch`
 O `switch` avalia uma única expressão e pula diretamente para o `case` correspondente, funcionando como um "menu". Ele é mais eficiente que vários `else if` encadeados.
 
+### Sintaxe do SWITCH
+```c
+switch( variavel ){
+  case valor1:
+      instruções;
+      break;
+  case valor2:
+      instruções;
+      break;  
+  ...
+defaut:
+      intruções;
+}
+```
 **Restrições:** Apenas tipos inteiros (`int`, `char`, `enum`) podem ser avaliados em um `switch`.
 
 ### **O comportamento de "Fall-Through"**
