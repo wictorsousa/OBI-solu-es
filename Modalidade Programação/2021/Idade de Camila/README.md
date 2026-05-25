@@ -44,4 +44,4 @@ Seu programa deve produzir uma única linha, contendo um único número inteiro,
 | 91 | |
 | 91 | |
  
-   
+**Raciocínio:** As idades de Cibele, Camila e Celeste podem ser vistas como os valores de $x$, $y$ e $z$. O objetivo da questão é encontrar o valor do meio entre os três.   
