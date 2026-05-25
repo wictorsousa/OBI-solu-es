@@ -78,7 +78,7 @@ switch( variavel ){
       break;  
   ...
   defaut:
-      intruções;
+      instruções;
 }
 ```
 **Restrições:** Apenas tipos inteiros (`int`, `char`, `enum`) podem ser avaliados em um `switch`.
