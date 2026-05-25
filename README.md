@@ -9,12 +9,11 @@ Para masnter a organização, tente seguir esta estrutura de pastas:
 
 ```text
 /
-└── 2025
-    └── Nível (Ex: Nível_Universitario)
-       └── Fase (Ex: Fase_1, Fase_2)
-          └── Nome_da_Questao
-             ├── solucao_wictor.py
-             └── solucao_vicente.c   
+└── Modalidade (Ex: Modalidade_Programação, Modalidade_Iniciação)
+    └── 2025
+        └── Nome_da_Questao
+            ├── solucao_wictor.py
+            └── solucao_vicente.c   
              
 ```
 
